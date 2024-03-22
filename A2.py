@@ -19,7 +19,6 @@ class pq:
         else:
             print(self.queue)
 
-q=pq()
 while True:
     print('queue operation \n 1.append 2.delete 3.display 4.exit')
     c = int(input("enter your choice"))
